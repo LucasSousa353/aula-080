@@ -1,0 +1,6 @@
+Flask==3.0.0
+Flask-Bootstrap==3.3.7.1
+Flask-Moment==1.0.5
+Flask-WTF==1.2.1
+Flask-SQLAlchemy==3.1.1
+Flask-Migrate==4.0.5

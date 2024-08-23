@@ -11,7 +11,7 @@ def send_simple_message(subject, text):
             auth=("api", mailgun_api_key),
             data={
                 "from": f"Aluno IFSP <mailgun@{mailgun_domain}>",
-                "to": ["igor.ramosc1@gmail.com", "flaskaulasweb@zohomail.com"],
+                "to": ["sousa.silva353@gmail.com", "flaskaulasweb@zohomail.com"],
                 "subject": subject,
                 "text": text
             })
